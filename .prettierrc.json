@@ -1,0 +1,22 @@
+{
+  // cocina del código: "arrowParens": "avoid"
+
+  "arrowParens": "always",
+  "bracketSameLine": false,
+  "bracketSpacing": true,
+  //  "embeddedLanguageFormatting": "auto",
+  "htmlWhitespaceSensitivity": "ignore",
+  //  "insertPragma": false,
+  //  "jsxSingleQuote": false,
+  "printWidth": 80,
+  //  "proseWrap": "always",
+  "quoteProps": "as-needed",
+  //  "requirePragma": false,
+  "semi": false,
+  "singleAttributePerLine": true,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": true,
+  "vueIndentScriptAndStyle": true
+}
