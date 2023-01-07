@@ -1,0 +1,117 @@
+[
+  {
+    "company": {
+      "institution": "isEazy - LMS",
+      "dependency": ""
+    },
+    "country": "españa",
+    "city": "madrid",
+    "date": {
+      "startMonth": "febrero",
+      "startYear": "2018",
+      "end": "",
+      "endYear": ""
+    },
+    "role": "Maquetador Web / UI Developer",
+    "tasks": "<p>Desarrollo <abbr title='User Interface'>UI</abbr>, <abbr title='Responsive Web Design'>RWD</abbr>, cross-browser (web/smart-tv) y creación de páginas <abbr title='Accelerated Mobile Pages'>AMP</abbr> para el grupo Atresmedia.</p>",
+    "url": "www.iseazy.com/es"
+  },
+  {
+    "company": {
+      "institution": "atresmedia"
+    },
+    "country": "españa",
+    "city": "madrid",
+    "date": {
+      "startMonth": "enero",
+      "startYear": "2015",
+      "end": "febrero",
+      "endYear": "2018"
+    },
+    "role": "Maquetador Web",
+    "tasks": "<p>Desarrollo <abbr title='User Interface'>UI</abbr>, <abbr title='Responsive Web Design'>RWD</abbr>, cross-browser (web/smart-tv) y creación de páginas <abbr title='Accelerated Mobile Pages'>AMP</abbr> para el grupo Atresmedia.</p>",
+    "url": "www.atresmedia.com"
+  },
+  {
+    "company": {
+      "institution": "Web Designer",
+      "dependency": "freelancer"
+    },
+    "country": "españa",
+    "city": "madrid",
+    "date": {
+      "startMonth": "enero",
+      "startYear": "2012",
+      "end": "abr",
+      "endYear": "2015"
+    },
+    "role": "Maquetador / Diseñador Web",
+    "tasks": "Diseño web y desarrollo de producto con énfasis en diseño de wireframes y experiencia de usuario."
+  },
+  {
+    "company": {
+      "institution": "revista fiat lux",
+      "dependency": "freelancer"
+    },
+    "country": "españa",
+    "city": "madrid",
+    "date": {
+      "startMonth": "enero",
+      "startYear": "2013",
+      "end": "febrero",
+      "endYear": "2014"
+    },
+    "role": "Maquetador Web",
+    "tasks": "Diseño y desarrollo del producto, maquetación y administración web.",
+    "url": "www.revistafiatlux.com"
+  },
+  {
+    "company": {
+      "institution": "angular media",
+      "dependency": "freelancer"
+    },
+    "country": "españa",
+    "city": "madrid",
+    "date": {
+      "startMonth": "enero",
+      "startYear": "2013",
+      "end": "oct",
+      "endYear": "2013"
+    },
+    "role": "Productor Audiovisual"
+  },
+  {
+    "company": {
+      "institution": "consejo para la cultura y las artes",
+      "dependency": "festival internacional cervantino"
+    },
+    "country": "méxico",
+    "city": "ciudad de méxico y guanajuato",
+    "date": {
+      "startMonth": "enero",
+      "startYear": "2010",
+      "end": "diciembre",
+      "endYear": "2011"
+    },
+    "role": "Multimedia Developer",
+    "tasks": "Administración y edición de contenidos multimedia (audio, foto y vídeo), diseño gráfico para representación de esquemas, planos y normatividades.",
+    "url": "www.festivalcervantino.gob.mx"
+  },
+  {
+    "company": {
+      "institution": "secretaría de cultura del gobierno del distrito federal",
+      "dependency": "FARO de Oriente (Fábrica de Artes y Oficios de Oriente)"
+    },
+    "country": "méxico",
+    "city": "ciudad de méxico",
+    "date": {
+      "startMonth": "enero",
+      "startYear": "2007",
+      "end": "diciembre",
+      "endYear": "2009"
+    },
+    "role": "Cordinador de Comunicación Digital",
+    "tasks": "Administración y gestión de contenidos web, supervisión y gestión de contenidos en redes sociales. Dirección editorial de la revista 'Bitácora'.",
+    "url": "www.cultura.cdmx.gob.mx/recintos/faro-oriente"
+  }
+]

@@ -7,10 +7,20 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Dependency directories
 node_modules
 dist
 dist-ssr
 *.local
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Output of 'npm pack'
+*.tgz
 
 # Editor directories and files
 .vscode/*
@@ -22,5 +32,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-package-lock.json
